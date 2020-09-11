@@ -1,0 +1,17 @@
+.list {
+  list-style: none;
+}
+
+.good {
+  color: green;
+}
+.neutral {
+  color: rgb(184, 150, 0);
+}
+.bad {
+  color: rgb(255, 0, 0);
+}
+
+.total {
+  margin-top: 30px;
+}
